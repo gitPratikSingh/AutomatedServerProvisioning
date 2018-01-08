@@ -1,7 +1,3 @@
-# HW1
-## Devops Homework-1 Provisioning and Configuring Servers
-
-This repository is mainly aimed at providing instructions to Provision and configure servers on remote VM's using serice providers such as DigitalOcean and Amazon AWS. This is currently beind done as part of HW-1 for CSC 591 Devops course at NC State. 
 
 ## Instructions on getting started
 a. To get started, you need to sign up with [DigitalOcean](https://cloud.digitalocean.com/registrations/new) and [Amazon AWS] (https://aws.amazon.com/premiumsupport/signup) .
@@ -59,8 +55,4 @@ bash InstallNginx.sh
 ```
 
 Once the playbook installs and starts nginx service, go to the IP of the VM in order to verify that nginx is working properly. e.g. - http://192.168.1.103
-
 Once this is done, we have met all the requirements and the servers have been installed.
-
-##Demo video explaining the procedure
-[Server Provisioning] (https://www.youtube.com/watch?v=7i3DgrM9-uo&feature=youtu.be)
